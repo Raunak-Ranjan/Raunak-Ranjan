@@ -49,7 +49,7 @@
 
 ### 📫 How to reach me
 
-- 📧 Email: perfeXiongaming@gmail.com
+- 📧 Email: perfexiongaming@gmail.com
 - 📸 Instagram: [@raunak_ranjan_07](https://instagram.com/raunak_ranjan_07)
 
 ---
