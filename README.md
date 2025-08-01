@@ -25,6 +25,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
+
 ---
 
 ### 📈 GitHub Stats
@@ -33,6 +34,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Raunak-Ranjan&show_icons=true&theme=radical" alt="Raunak's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak-Ranjan&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Ranjan&layout=compact&theme=radical" />
 </p>
 
 ---
