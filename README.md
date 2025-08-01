@@ -33,8 +33,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raunak-Ranjan&show_icons=true&theme=radical" alt="Raunak's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raunak-Ranjan&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Ranjan&layout=compact&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Ranjan&layout=compact&theme=radical" />
 </p>
 
 ---
