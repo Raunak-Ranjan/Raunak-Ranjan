@@ -1,60 +1,78 @@
-<h1 align="center">Hi 👋, I'm Raunak Ranjan</h1>
-<h3 align="center">🚀 Aspiring Web Developer | Passionate Learner | JEE 2026 Aspirant</h3>
+# 👋 Hi, I’m Raunak Ranjan  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=I+love+building+web+projects!;Learning+HTML,+CSS,+JavaScript...;Currently+preparing+for+JEE+2026" alt="Typing SVG" />
-</p>
+🎓 Aspiring **Computer Science Engineer** | 💻 Passionate about **AI, Web Development, and Automation** | 🚀 Exploring the Future of Tech  
 
 ---
 
-### 👨‍💻 About Me
-
-- 🌱 I’m currently learning **Web Development** and preparing for **JEE 2026**
-- 🔭 I’m building small projects to improve my skills and understanding
-- 💡 I love turning ideas into reality using code
-- 🎯 Goal: To become a skilled full-stack developer and build useful tools
-- 🎥 I also create AI-generated content at **The AI Foundry**
-
----
-
-### 💻 Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
+## 🌟 About Me  
+- 📍 From **India**  
+- 🎯 Aspiring to pursue **B.Tech in CSE** (or related tech field)  
+- 🔭 Currently working on: **AI-driven projects & automation workflows**  
+- 🌱 Learning: **DSA, Web Development, n8n, and Full-Stack projects**  
+- 📚 Preparing for **JEE 2026** (while building my developer profile)  
+- ⚡ Fun fact: I love blending **AI + creativity** to build unique solutions  
 
 ---
 
-### 📈 GitHub Stats
+## 🚀 Tech Stack  
+### 💻 Programming & Development  
+- **Languages**: Python, JavaScript, C++ (Basics), HTML, CSS  
+- **Frameworks & Tools**: React, Node.js, Express, TailwindCSS  
+- **Databases**: MongoDB, MySQL  
+- **Other Tools**: Git, GitHub, VS Code  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raunak-Ranjan&show_icons=true&theme=radical" alt="Raunak's GitHub Stats" />
-  <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Ranjan&layout=compact&theme=radical" />
-</p>
-
----
-
-### 📌 Pinned Projects
-
-- 🔢 [JEE Countdown Timer](https://github.com/Raunak-Ranjan/JEE-COUNTDOWN) – HTML Project
-- 🌈 [ColorSplash](https://github.com/Raunak-Ranjan/ColorSplash) – CSS UI Project
-- 💌 [Propose-Day](https://github.com/Raunak-Ranjan/Propose-Day) – JavaScript Fun Project
+### 🤖 AI & Automation  
+- **AI Tools**: OpenAI APIs, LangChain, n8n Workflows  
+- **Automation**: Google Calendar API, Make.com, Zapier (learning stage)  
 
 ---
 
-### 📫 How to reach me
+## 📂 Featured Projects  
 
-- 📧 Email: perfexiongaming@gmail.com
-- 📸 Instagram: [@raunak_ranjan_07](https://instagram.com/raunak_ranjan_07)
+### 🔹 To-Do List + Google Calendar Integration  
+📌 *A productivity web app that syncs tasks with Google Calendar in real-time.*  
+- Tech: React, Node.js, Google Calendar API  
+- [🔗 View Repository](#)  
+
+### 🔹 YouTube Clone  
+📌 *A fully functional YouTube-like app with working buttons and UI.*  
+- Tech: React, TailwindCSS, YouTube API  
+- [🔗 View Repository](#)  
+
+### 🔹 AI-Powered Automation Workflows  
+📌 *Advanced n8n workflows showcasing automation + AI integration.*  
+- Tech: n8n, OpenAI APIs, Webhooks  
+- [🔗 View Repository](#)  
+
+👉 *(More projects coming soon — stay tuned!)*  
 
 ---
 
-### ⚡ Fun Fact
+## 📊 GitHub Stats  
 
-> I’m studying for JEE while exploring the world of Web Dev & AI tools. Learning never stops! 🚀
+<div align="center">
 
+![Raunak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raunak-Ranjan&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Ranjan&layout=compact&theme=tokyonight)  
+
+</div>
+
+---
+
+## 🏆 Achievements & Goals  
+- 🌐 Built automation workflows with **n8n**  
+- 📌 Developing strong **problem-solving skills in DSA**  
+- 🚀 Aim: Contribute to **open-source projects** and publish impactful tech content  
+
+---
+
+## 🌍 Connect with Me  
+
+- 💼 [LinkedIn](#)   
+- 📧 Email: maltirkr970@gmail.com  
+- 📝 [The AI Foundry - My Tech Channel](#)   
+
+---
+
+✨ *"Code. Automate. Create. Repeat."* 🚀  
