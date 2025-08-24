@@ -70,7 +70,7 @@
 ## 🌍 Connect with Me  
 
 - 💼 [LinkedIn](#)   
-- 📧 Email: maltirkr970@gmail.com  
+- 📧 Email: raunakranjan.dev@gmail.com  
 - 📝 [The AI Foundry - My Tech Channel](#)   
 
 ---
